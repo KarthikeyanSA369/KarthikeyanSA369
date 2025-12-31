@@ -17,4 +17,4 @@ data analysis, and web technologies.
 
 ### 🌐 Connect with me
 - LinkedIn: www.linkedin.com/in/karthikeyansa369
-- Kaggle: https://www.kaggle.com/karthisa
+- Gmail:karthikeyansa369@gmail.com
