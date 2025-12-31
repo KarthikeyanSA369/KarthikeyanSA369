@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Karthikeyan 👋
 
-<!--
-**KarthikeyanSA369/KarthikeyanSA369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Programming | Web Development | Data Analysis | Exploring ML & AI
 
-Here are some ideas to get you started:
+I am a passionate learner focused on building real-world projects using Python,
+data analysis, and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- Python
+- Pandas, NumPy
+- Web Development
+- Git & GitHub
+
+### 📌 Projects
+- Student Academic Risk Prediction System
+- WhatsApp UI Clone
+
+### 🌐 Connect with me
+- LinkedIn: www.linkedin.com/in/karthikeyansa369
+- Kaggle: https://www.kaggle.com/karthisa
