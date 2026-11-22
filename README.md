@@ -22,6 +22,7 @@
 <br/>
 </div>
 ---
+
 ## 👨‍💻 About Me
 
 Hi! I'm **Karthikeyan S A**, an Artificial Intelligence and Data Science student passionate about Python programming, data analytics and intelligent software development.
