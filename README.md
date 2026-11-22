@@ -19,12 +19,9 @@
 <a href="mailto:karthikeyansa369@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
 </a>
-
-<br/><br/>
+<br/>
 </div>
-
 ---
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Karthikeyan S A**, an Artificial Intelligence and Data Science student passionate about Python programming, data analytics and intelligent software development.
