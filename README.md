@@ -6,9 +6,7 @@
 
 <!-- CUSTOM GITHUB BANNER -->
 <img width="100%" src="https://github.com/user-attachments/assets/46cc2ce7-e14c-4dfe-8daf-cebf9840b367" alt="Karthikeyan S A - AI and Data Science Python Developer" />
-
 <br/>
-
 <!-- SOCIAL LINKS -->
 <a href="https://github.com/KarthikeyanSA369">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
@@ -21,9 +19,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=KarthikeyanSA369&amp;label=PROFILE%20VIEWS&amp;color=6366F1&amp;style=flat-square" alt="Profile Views" />
-
 </div>
 
 ---
