@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="Karthikeyan S A_ AI   Data Science" src="https://github.com/user-attachments/assets/46cc2ce7-e14c-4dfe-8daf-cebf9840b367" />
 <!-- ===================================================== -->
 <!--             KARTHIKEYAN S A - PROFILE                -->
 <!-- ===================================================== -->
