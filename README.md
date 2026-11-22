@@ -7,10 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4F46E5,50:6366F1,100:90CAF9&amp;height=200&amp;section=header&amp;text=Karthikeyan%20S%20A&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20%7C%20Python%20Developer&amp;descAlignY=58&amp;descSize=18" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python+Developer;AI+%26+Data+Science+Enthusiast;Building+Real-World+Applications;Exploring+Machine+Learning+%26+Generative+AI" alt="Typing SVG" />
-</a>
-
 <p>
 <a href="https://github.com/KarthikeyanSA369">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
